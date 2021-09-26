@@ -1,4 +1,4 @@
-# Unexpected_Behaviour_in_c
+# Unexpected Behaviour in C language
 When we compile and run "Unexpected_behaviour_in_c.c"
 then we get output like this:</br>
 **HelloWelcome to C World**</br>
