@@ -3,7 +3,7 @@ When we compile and run "Unexpected_behaviour_in_c.c"
 then we get output like this:</br>
 **HelloWelcome to C World**</br>
 </br>
-In printf function, I'm printing just string2 but first string is automatically
+In printf function, I'm printing just string2 but string1 is automatically
 appending to end of string2.<br>
 This is odd behaviour in C language. I know that strings in C language have '\0' at the end.<br>
 But here character array size is limited to number characters in "Hello" word.<br>
